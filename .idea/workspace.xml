@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b8dc7bd-e1c9-4158-84f2-e6ec79ee5f99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="2FQ7cTYOW6ZzBQtVV2gJHnYmj4I" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/com/mingliu/sort/lc283" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.offer123">
+    <configuration name="Solution4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solution4" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solutiong" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solutiong" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solutions" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solutions" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lc283.Solution" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lc283.Solution" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lc283.Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lc283.Test" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lc54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc54" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lc870" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lc870" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offer123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer123" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offer26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer26" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offer53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer53" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offer57Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer57Two" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.offer123" />
+        <item itemvalue="Application.offer26" />
+        <item itemvalue="Application.offer57Two" />
+        <item itemvalue="Application.offer53" />
+        <item itemvalue="Application.lc54" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1664412566330">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1664412566330" />
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1665237873103">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1665237873103" />
+    <state x="490" y="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1664437983072">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="490" y="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1664437983072" />
+    <state width="1419" height="297" key="GridCell.Tab.0.bottom" timestamp="1665361941916">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665361941916" />
+    <state width="1419" height="297" key="GridCell.Tab.0.center" timestamp="1665361941915">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1665361941915" />
+    <state width="1419" height="297" key="GridCell.Tab.0.left" timestamp="1665361941914">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1665361941914" />
+    <state width="1419" height="297" key="GridCell.Tab.0.right" timestamp="1665361941916">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1665361941916" />
+    <state width="1419" height="297" key="GridCell.Tab.1.bottom" timestamp="1665361941918">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665361941918" />
+    <state width="1419" height="297" key="GridCell.Tab.1.center" timestamp="1665361941917">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1665361941917" />
+    <state width="1419" height="297" key="GridCell.Tab.1.left" timestamp="1665361941917">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1665361941917" />
+    <state width="1419" height="297" key="GridCell.Tab.1.right" timestamp="1665361941918">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="297" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1665361941918" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1665309253392">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1665309253392" />
+    <state x="507" y="246" key="chooseDestDirectoryDialog" timestamp="1664415355970">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="246" key="chooseDestDirectoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1664415355970" />
+    <state x="421" y="170" width="598" height="582" key="find.popup" timestamp="1665324073570">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="421" y="170" width="598" height="582" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1665324073570" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/com/mingliu/graph/Solutiong.java</url>
+          <line>27</line>
+          <properties class="Solutiong" method="union">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/graph/Solutiong.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/Solution1001.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/linkedlist/MyLinkedList.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/offer/lc240.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/offer/lc240.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/offer/lc240.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/lc811.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/lc927.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/lc927.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/lc927.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/array/lc54.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/lc870.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/everyday/lc870.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/offer/offer57Two.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/offer/offer57Two.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/offer/offer123.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
