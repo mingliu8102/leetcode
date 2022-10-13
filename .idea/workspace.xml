@@ -48,7 +48,18 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.offer123">
+  <component name="RunManager" selected="Application.zhijaing">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="Solution4" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Solution4" />
       <module name="leetcode" />
@@ -78,8 +89,8 @@
       <module name="leetcode" />
       <method v="2" />
     </configuration>
-    <configuration name="lc54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc54" />
+    <configuration name="lc769" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc769" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
@@ -101,21 +112,15 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="offer53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer53" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="offer57Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer57Two" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="test2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test2" />
       <module name="leetcode" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhijaing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhijaing" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -136,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zhijaing" />
+        <item itemvalue="Application.lc769" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.offer123" />
         <item itemvalue="Application.offer26" />
-        <item itemvalue="Application.offer57Two" />
-        <item itemvalue="Application.offer53" />
-        <item itemvalue="Application.lc54" />
       </list>
     </recent_temporary>
   </component>
@@ -157,42 +162,42 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="490" y="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1664437983072" />
-    <state width="1419" height="297" key="GridCell.Tab.0.bottom" timestamp="1665567398280">
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1665662775066">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665567398280" />
-    <state width="1419" height="297" key="GridCell.Tab.0.center" timestamp="1665567398280">
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665662775066" />
+    <state width="1419" height="240" key="GridCell.Tab.0.center" timestamp="1665662775064">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1665567398280" />
-    <state width="1419" height="297" key="GridCell.Tab.0.left" timestamp="1665567398280">
+    <state width="1419" height="240" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1665662775064" />
+    <state width="1419" height="240" key="GridCell.Tab.0.left" timestamp="1665662775062">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1665567398280" />
-    <state width="1419" height="297" key="GridCell.Tab.0.right" timestamp="1665567398280">
+    <state width="1419" height="240" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1665662775062" />
+    <state width="1419" height="240" key="GridCell.Tab.0.right" timestamp="1665662775065">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1665567398280" />
-    <state width="1419" height="297" key="GridCell.Tab.1.bottom" timestamp="1665567398284">
+    <state width="1419" height="240" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1665662775065" />
+    <state width="1419" height="339" key="GridCell.Tab.1.bottom" timestamp="1665662650393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665567398284" />
-    <state width="1419" height="297" key="GridCell.Tab.1.center" timestamp="1665567398282">
+    <state width="1419" height="339" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665662650393" />
+    <state width="1419" height="339" key="GridCell.Tab.1.center" timestamp="1665662650393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1665567398282" />
-    <state width="1419" height="297" key="GridCell.Tab.1.left" timestamp="1665567398281">
+    <state width="1419" height="339" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1665662650393" />
+    <state width="1419" height="339" key="GridCell.Tab.1.left" timestamp="1665662650392">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1665567398281" />
-    <state width="1419" height="297" key="GridCell.Tab.1.right" timestamp="1665567398282">
+    <state width="1419" height="339" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1665662650392" />
+    <state width="1419" height="339" key="GridCell.Tab.1.right" timestamp="1665662650393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="297" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1665567398282" />
-    <state x="208" y="43" key="SettingsEditor" timestamp="1665309253392">
+    <state width="1419" height="339" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1665662650393" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1665633228594">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1665309253392" />
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1665633228594" />
     <state x="507" y="246" key="chooseDestDirectoryDialog" timestamp="1664415355970">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -292,6 +297,36 @@
           <url>file://$PROJECT_DIR$/com/mingliu/offer/offer123.java</url>
           <line>16</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/saimawang/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/saimawang/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/saimawang/Main.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/saimawang/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/saimawang/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/mingliu/saimawang/zhijaing.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
