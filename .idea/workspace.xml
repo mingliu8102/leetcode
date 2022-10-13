@@ -48,7 +48,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zhijaing">
+  <component name="RunManager" selected="Application.zhijaing2">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="leetcode" />
@@ -106,12 +106,6 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="offer26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer26" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="test2" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test2" />
       <module name="leetcode" />
@@ -119,6 +113,12 @@
     </configuration>
     <configuration name="zhijaing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zhijaing" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhijaing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhijaing2" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zhijaing2" />
         <item itemvalue="Application.zhijaing" />
         <item itemvalue="Application.lc769" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.offer123" />
-        <item itemvalue="Application.offer26" />
       </list>
     </recent_temporary>
   </component>
@@ -162,22 +162,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="490" y="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1664437983072" />
-    <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1665662775066">
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1665663377146">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665662775066" />
-    <state width="1419" height="240" key="GridCell.Tab.0.center" timestamp="1665662775064">
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1665663377146" />
+    <state width="1419" height="240" key="GridCell.Tab.0.center" timestamp="1665663377145">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1665662775064" />
-    <state width="1419" height="240" key="GridCell.Tab.0.left" timestamp="1665662775062">
+    <state width="1419" height="240" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1665663377145" />
+    <state width="1419" height="240" key="GridCell.Tab.0.left" timestamp="1665663377145">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1665662775062" />
-    <state width="1419" height="240" key="GridCell.Tab.0.right" timestamp="1665662775065">
+    <state width="1419" height="240" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1665663377145" />
+    <state width="1419" height="240" key="GridCell.Tab.0.right" timestamp="1665663377145">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="240" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1665662775065" />
+    <state width="1419" height="240" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1665663377145" />
     <state width="1419" height="339" key="GridCell.Tab.1.bottom" timestamp="1665662650393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
